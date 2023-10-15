@@ -14,7 +14,7 @@ const Introduction = () => {
         </h1>
       </div>
 
-      <div className="text-lg  tracking-wider md:px-24 flex flex-col gap-2">
+      <div className="text-lg text-justify  tracking-wider md:px-24 flex flex-col gap-2">
         <p>
           I'm Vijay Singh Saud, and I love creating web applications as a MERN
           Stack Developer. I'm currently studying for my B.Tech degree at
@@ -45,7 +45,7 @@ const Introduction = () => {
           opportunities. You can connect with me on{" "}
           <a
             target="_blanck"
-            className="underline underline-offset-4 bg-blue-900 p-2 rounded-sm "
+            className="underline underline-offset-4p-2 rounded-sm "
             href="https://www.linkedin.com/in/vijay-singh-saud/"
           >
             LinkedIn

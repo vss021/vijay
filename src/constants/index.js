@@ -1,27 +1,27 @@
 export const navLinks = [
     {
-        id:1001,
+        id:'nav-01',
         title:"Home",
         link:"home",
     },
     {
-        id:1002,
+        id:'nav-02',
         title:"About",
         link:"about",
     },
     {
-        id:1002,
+        id:'nav-03',
         title:"Skills",
         link:"skills",
     },
     {
-        id:1003,
+        id:'nav-04',
         title:"Projects",
         link:"projects",
     },
     
     {
-        id:1004,
+        id:'nav-05',
         title:"Contact",
         link:"contact",
     },

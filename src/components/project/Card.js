@@ -32,7 +32,7 @@ const Card = ({ title, des, img, urlLink }) => {
               </span>
             </div>
           </div>
-          <p className="text-sm tracking-wide mt-3 hover:text-gray-100 duration-300">
+          <p className="text-sm tracking-wide text-justify mt-3 hover:text-gray-100 duration-300">
             {des}
           </p>
         </div>

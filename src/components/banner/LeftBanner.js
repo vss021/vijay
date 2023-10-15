@@ -40,7 +40,7 @@ const LeftBanner = () => {
           </h4>
 
             <h1 className="text-6xl font-bold text-white">
-            Hi there! 👋
+            Hi there! <span className="animate-bounce">👋</span>
             </h1>
             <h1 className="text-6xl hover:text-designColor-6xl font-bold text-blue-900 ">
               Vijay Singh Saud
@@ -55,7 +55,7 @@ const LeftBanner = () => {
           />
           </h2>
 
-          <p className="text-base font-bodyFont leading-6 tracking-wide">
+          <p className="text-base text-justify font-bodyFont  tracking-wide">
           I’m a fourth-year Computer Science student who is passionate about coding and development. I’m always on the lookout for fresh challenges to level up my skills and make my mark in the software development sphere. I’m passionate about learning and using code to create cool solutions. Let’s connect and dive into the exciting world of software engineering together! 🚀
           </p>
         </div>
