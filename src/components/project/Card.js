@@ -15,7 +15,7 @@ const Card = ({ title, des, img, urlLink }) => {
           alt="src"
         />
       </div>
-      <div className="w-full mt-5 flex flex-col  gap-6">
+      <div className="w-full mt-2 flex flex-col  gap-6">
         <div>
           <div className="flex items-center justify-between">
             <h3 className="text-base uppercase text-designColor font-normal">
@@ -32,7 +32,7 @@ const Card = ({ title, des, img, urlLink }) => {
               </span>
             </div>
           </div>
-          <p className="text-sm tracking-wide text-justify mt-3 hover:text-gray-100 duration-300">
+          <p className="text-sm tracking-wide text-justify hover:text-gray-100 duration-300">
             {des}
           </p>
         </div>

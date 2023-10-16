@@ -15,7 +15,7 @@ export const techData = [
             {
                 id:'s002',
                 name : 'Data Structures',
-                level : 'Advance'
+                level : 'Intermediate'
             },
             {
                 id:'s003',

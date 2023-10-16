@@ -56,7 +56,7 @@ const LeftBanner = () => {
           </h2>
 
           <p className="text-base text-justify font-bodyFont  tracking-wide">
-          I’m a fourth-year Computer Science student who is passionate about coding and development. I’m always on the lookout for fresh challenges to level up my skills and make my mark in the software development sphere. I’m passionate about learning and using code to create cool solutions. Let’s connect and dive into the exciting world of software engineering together! 🚀
+          I’m a fourth-year Computer Science student who is passionate about coding and development. I’m always looking for fresh challenges to level up my skills and am curious to learn continuously. Let’s connect and dive into the exciting world of software engineering together! 🚀”
           </p>
         </div>
 

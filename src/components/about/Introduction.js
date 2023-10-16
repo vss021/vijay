@@ -14,30 +14,13 @@ const Introduction = () => {
         </h1>
       </div>
 
-      <div className="text-lg text-justify  tracking-wider md:px-24 flex flex-col gap-2">
+      <div className="text-lg text-justify  tracking-wider md:px-24 flex flex-col gap-3">
         <p>
-          I'm Vijay Singh Saud, and I love creating web applications as a MERN
-          Stack Developer. I'm currently studying for my B.Tech degree at
-          Shivalik College of Engineering in Dehradun.
+        My name is Vijay Singh Saud, and I enjoy creating web applications as a MERN Stack Developer. Currently, I’m pursuing my B.Tech degree at Shivalik College of Engineering in Dehradun.
         </p>
-        <p>
-          🚀 I enjoy solving coding challenges, and I actively participate in
-          contests on LeetCode and CodeChef. I'm pretty good at it, with a
-          LeetCode rating over 1700 and a CodeChef 3-star badge.{" "}
-        </p>
-
-        <p>
-          💼 Besides coding contests, I've also worked on building the backend
-          of websites using technologies like Node.js, Express.js, and MongoDB.
-        </p>
-
         <p>
           {" "}
-          I'm skilled in programming languages like Core Java and C++, and I
-          know my way around web development with React.js, Node.js, and
-          Express.js. I'm comfortable using tools like Git, GitHub, and Postman.
-          I'm also familiar with the MERN Stack and databases like MongoDB and
-          MySQL.
+          I know programming languages like Java and C++, and I’m comfortable with web development using React.js, Node.js, and Express.js. I’m also familiar with Git, GitHub, Postman, and databases like MongoDB and MySQL.
         </p>
 
         <p>
