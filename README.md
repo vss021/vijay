@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-#Live in => vijay-s-portfolio.vercel.app
+Live in => vijay-s-portfolio.vercel.app
  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
