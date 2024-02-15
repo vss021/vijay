@@ -3,7 +3,6 @@ import Navbar from './components/navBar/Navbar';
 import Banner from './components/banner/Banner';
 import About from './components/about/About';
 import Projects from './components/project/Projects';
-import Resume from './components/resume/Resume';
 import Contact from './components/contact/Contact';
 import Footer from './components/footer/Footer';
 import FooterEnd from './components/footer/FooterEnd';

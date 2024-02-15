@@ -42,7 +42,8 @@ const Navbar = () => {
 
           <button className=" text-base font-normal text-gray-400 tracking-wide cursor-pointer hover:text-designColor duration-300">
             <a
-              href="https://drive.google.com/file/d/1TJ6iNndNSb6wf6r8YeHHgYAfmqNKUEZk/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1Kq1q7QdRXRSntacUn_ZSghxK0ni8Py7l/view?usp=drive_link"
+              rel="noreferrer"
               target="_blank"
             >
               Resume
@@ -95,8 +96,9 @@ const Navbar = () => {
                   </li>
                 ))}
                 <a
-                  href="https://example.com"
                   className=" text-base font-normal text-gray-400 tracking-wide cursor-pointer hover:text-designColor duration-300"
+                  href="https://drive.google.com/file/d/1Kq1q7QdRXRSntacUn_ZSghxK0ni8Py7l/view?usp=drive_link"
+                  rel="noreferrer"
                   target="_blank"
                 >
                   Resume
